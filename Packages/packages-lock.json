@@ -14,7 +14,7 @@
       "url": "https://package.openupm.com"
     },
     "com.bezel.unity": {
-      "version": "file:C:/Users/yrysbek/Documents/GitHub/bezi_unity_bridge/BeziUnityBridgePlugin",
+      "version": "file:C:/Users/yrysbek/Downloads/bezi_unity_bridge-main/bezi_unity_bridge-main/BeziUnityBridgePlugin",
       "depth": 0,
       "source": "local",
       "dependencies": {
