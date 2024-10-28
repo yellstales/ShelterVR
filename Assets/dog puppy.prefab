@@ -63,7 +63,7 @@ Transform:
   m_Children:
   - {fileID: 3328783789890972926}
   m_Father: {fileID: 922007411928400551}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 11.514}
 --- !u!1 &566957746765301401
 GameObject:
   m_ObjectHideFlags: 0
@@ -206,11 +206,11 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 19
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -1178,7 +1178,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 922007411928400551}
-  - component: {fileID: 4836994059988727305}
+  - component: {fileID: 3697109453771222083}
   m_Layer: 0
   m_Name: Dog_Tail_01_02SHJnt
   m_TagString: Untagged
@@ -1195,14 +1195,14 @@ Transform:
   m_GameObject: {fileID: 6036945209943612151}
   serializedVersion: 2
   m_LocalRotation: {x: -0.13553847, y: 0.09471579, z: -0.89843506, w: 0.4067834}
-  m_LocalPosition: {x: 0.10400017, y: -0.10200069, z: -0.07199991}
+  m_LocalPosition: {x: 0.103999965, y: -0.10200069, z: -0.072000146}
   m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4883754368186601463}
   m_Father: {fileID: 4969741830047651006}
-  m_LocalEulerAnglesHint: {x: -38.289, y: -51.243, z: -105.427}
---- !u!111 &4836994059988727305
+  m_LocalEulerAnglesHint: {x: 15.468021, y: 33.618332, z: -127.67187}
+--- !u!111 &3697109453771222083
 Animation:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
